@@ -17,9 +17,9 @@ namespace ArithmeticOperations
             int product;
             int quotient;
             int remainder;
-            String firstName;
+            string firstName;
             string lastName;
-            String line3, line4, line5, line6, line7;
+            string line3, line4, line5, line6, line7;
 
             Console.Write("Please Enter your Last Name: ");
             lastName = Console.ReadLine();
